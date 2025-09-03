@@ -27,7 +27,7 @@ The idea of this blog is planned to be a mix of:
 
  - To document my journey – I want to look back at the end of my degree and see how far I’ve come because I feel like even just in this past year (my foundation year) I have come so far already.
 
-To share with others – Whether you’re another student, someone curious about aerospace, or just passing by, I hope you’ll find something useful or inspiring here.
+ - To share with others – Whether you’re another student, someone curious about aerospace, or just passing by, I hope you’ll find something interesting here.
 
 
 ### What’s Next
