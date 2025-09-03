@@ -1,9 +1,10 @@
+---
 layout: post
 title: Preparation
 date: 2025-09-03 20:05 +0100
 catagories:
 tags: [personal][university]
-----------------------------
+---
 
 ## Move it move it
 
