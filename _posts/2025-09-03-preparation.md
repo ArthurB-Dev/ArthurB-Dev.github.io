@@ -3,7 +3,7 @@ layout: post
 title: Preparation
 date: 2025-09-03 20:05 +0100
 categories:
-tags: [personal][university]
+tags: [personal, university]
 ---
 
 ## Move it move it
